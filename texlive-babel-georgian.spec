@@ -6,7 +6,7 @@
 # catalog-version 2.1
 Name:		texlive-babel-georgian
 Version:	2.1
-Release:	1
+Release:	2
 Summary:	Babel
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/georgian
