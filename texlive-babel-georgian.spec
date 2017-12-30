@@ -1,12 +1,6 @@
-# revision 33527
-# category Package
-# catalog-ctan /macros/latex/contrib/babel-contrib/georgian
-# catalog-date 2014-04-18 06:13:59 +0200
-# catalog-license lppl1.3
-# catalog-version 2.1
 Name:		texlive-babel-georgian
-Version:	2.1
-Release:	4
+Version:	2.2
+Release:	1
 Summary:	Babel
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/georgian
@@ -33,10 +27,8 @@ written in Georgian. The package is adapted for use both under
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/generic/babel-georgian/georgian.ldf
-%{_texmfdistdir}/tex/generic/babel-georgian/georgian.sty
-%{_texmfdistdir}/tex/generic/babel-georgian/georgiancaps.tex
-%doc %{_texmfdistdir}/doc/generic/babel-georgian/readme
+%{_texmfdistdir}/tex/generic/babel-georgian
+%doc %{_texmfdistdir}/doc/generic/babel-georgian
 
 #-----------------------------------------------------------------------
 %prep
