@@ -3,7 +3,7 @@ Version:	45864
 Release:	2
 Summary:	Babel
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/georgian
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/georgian
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-georgian.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-georgian.doc.r%{version}.tar.xz
